@@ -5,6 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
+
             System.out.println("Select an option:");
             System.out.println("1. Find common items in two arrays");
             System.out.println("2. Generate Fibonacci sequence");
